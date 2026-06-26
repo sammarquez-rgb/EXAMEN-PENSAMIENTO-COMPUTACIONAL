@@ -125,7 +125,7 @@ Se utilizó como fondo una imagen del escenario original de Five Nights at Fredd
 
 ## Animatrónico (Foxy / jumpscare)
 
-Se utilizó una imagen de Foxy ya que es uno de los animatrónicos más reconocidos y temidos dentro de Five Nights at Freddy’s, lo que refuerza la tensión y el vínculo directo con la estética de terror del juego.
+Se utilizó un gifde Foxy ya que es uno de los animatrónicos más reconocidos y temidos dentro de Five Nights at Freddy’s, lo que refuerza la tensión y el vínculo directo con la estética de terror del juego.
 
 <img width="498" height="373" alt="foxy" src="https://github.com/user-attachments/assets/57a79d50-bfc1-4b6f-bd85-2dd2efc6cf38" />
 
