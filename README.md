@@ -162,5 +162,5 @@ https://github.com/user-attachments/assets/96d05716-4ad9-40eb-b469-b7030b2c2fac
 
 ## Link de p5.js
 
-<iframe src="https://editor.p5js.org/sam.marquez/full/E7wbdHywZ"></iframe>
+https://editor.p5js.org/sam.marquez/sketches/E7wbdHywZ
 
