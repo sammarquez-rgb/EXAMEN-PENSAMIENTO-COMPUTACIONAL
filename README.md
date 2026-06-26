@@ -86,6 +86,15 @@ Sonidos:
 
 Estos refuerzan la atmósfera de tensión y recompensa. 
 
+## Diagrama de flujo
+
+Documenta la lógica del proyecto FNAF Simulación. Muestra el recorrido del juego desde el menú inicial hasta las condiciones de victoria y derrota, incluyendo la gestión de energía, el reloj, el comportamiento del animatrónico y la interacción del jugador.
+
+[DIAGRAMA DE FLUJO EXAMEN.pdf](https://github.com/user-attachments/files/29379278/DIAGRAMA.DE.FLUJO.EXAMEN.pdf)
+
+<img width="1936" height="1080" alt="DIAGRAMA DE FLUJO EXAMEN" src="https://github.com/user-attachments/assets/5e94b7d5-c847-4ed9-a529-c9bcd541701d" />
+
+
 # Idea y proceso del proyecto
 
 Al igual que en la solemne anterior, decidí mantener la línea de trabajo basada en la creación de un sistema interactivo inspirado en un videojuego. En este caso, quise enfocarme en un juego de terror, tomando como referencia Five Nights at Freddy’s (FNAF), con el objetivo de reinterpretar su sistema de tensión y supervivencia dentro de p5.js.
@@ -141,3 +150,17 @@ A lo largo del proceso reforcé conocimientos sobre el uso de variables, condici
 Como apoyo durante el desarrollo utilicé inteligencia artificial para organizar la estructura inicial del proyecto y resolver dudas puntuales de programación. Sin embargo, fue necesario comprender el funcionamiento del código, adaptarlo a los requerimientos del proyecto y realizar diversas modificaciones hasta obtener el resultado final.
 
 En conclusión, este proyecto me permitió fortalecer tanto mis conocimientos en programación con p5.js como mi capacidad para analizar, estructurar y desarrollar una experiencia interactiva inspirada en un referente de videojuegos.
+
+## Resultado final del juego 
+
+Grabación del funcionamiento del juego que muestra dos escenarios: uno previo a la victoria y otro previo a la derrota, con el objetivo de evidenciar la implementación de las mecánicas, la interfaz y los estados finales del proyecto.
+
+https://github.com/user-attachments/assets/f762d61d-ecda-4273-8d2f-aba61efc8791
+
+
+https://github.com/user-attachments/assets/96d05716-4ad9-40eb-b469-b7030b2c2fac
+
+## Link de p5.js
+
+https://editor.p5js.org/sam.marquez/full/E7wbdHywZ
+
