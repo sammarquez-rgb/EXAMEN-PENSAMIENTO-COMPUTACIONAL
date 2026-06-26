@@ -33,8 +33,8 @@ El trabajo consiste en una experiencia interactiva donde el usuario debe sobrevi
 
  ## Outputs sonoros
  
- Sonido de jumpscare (fnaf.mp3)
- Sonido de victoria (yay.mp3)
+ - Sonido de jumpscare (fnaf.mp3)
+ - Sonido de victoria (yay.mp3)
 
 ## Procesos (lógica interna)
 
