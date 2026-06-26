@@ -110,5 +110,7 @@ Finalmente, el proyecto utiliza funciones auxiliares para estructurar la interfa
 
 ## Fondo 
 
-<img width="1600" height="720" alt="fondofnaf" src="https://github.com/user-attachments/assets/4911d143-019f-49d7-aeb7-6c08be517921" />
+<img width="1280" height="600" alt="fondofnaf" src="https://github.com/user-attachments/assets/3c409005-ac67-4ff8-bbf3-5f976232c901" />
+
+
 
