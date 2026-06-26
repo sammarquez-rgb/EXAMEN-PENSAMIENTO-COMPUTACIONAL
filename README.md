@@ -131,3 +131,13 @@ La pantalla de “6 AM” se utilizó como representación del momento de victor
 Los sonidos utilizados fueron obtenidos desde fuentes externas e integrados al sistema para reforzar la experiencia del juego. Se emplea un sonido de jumpscare para enfatizar el momento de derrota y generar impacto en el jugador, y un sonido de victoria que refuerza la sensación de logro al alcanzar las 6:00 AM, siendo fiel al juego original Five Nights at Freddy’s.
 
 https://www.myinstants.com/es/search/?name=FNAF
+
+## Aprendizajes y dificultades
+
+Uno de los principales desafíos durante el desarrollo del proyecto fue adaptar las mecánicas de Five Nights at Freddy’s a un sistema más simple dentro de p5.js, procurando mantener la sensación de tensión característica del juego. Para ello fue necesario realizar distintos ajustes en el consumo de energía, el avance del tiempo y el comportamiento del enemigo hasta conseguir un equilibrio entre dificultad y jugabilidad.
+
+A lo largo del proceso reforcé conocimientos sobre el uso de variables, condicionales, funciones, arreglos y lógica basada en frames, comprendiendo cómo estos elementos trabajan en conjunto para construir un sistema interactivo.
+
+Como apoyo durante el desarrollo utilicé inteligencia artificial para organizar la estructura inicial del proyecto y resolver dudas puntuales de programación. Sin embargo, fue necesario comprender el funcionamiento del código, adaptarlo a los requerimientos del proyecto y realizar diversas modificaciones hasta obtener el resultado final.
+
+En conclusión, este proyecto me permitió fortalecer tanto mis conocimientos en programación con p5.js como mi capacidad para analizar, estructurar y desarrollar una experiencia interactiva inspirada en un referente de videojuegos.
