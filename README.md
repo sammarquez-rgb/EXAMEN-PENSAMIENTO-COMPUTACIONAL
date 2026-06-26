@@ -16,20 +16,20 @@ El trabajo consiste en una experiencia interactiva donde el usuario debe sobrevi
 
 ## Inputs utilizados
 
-Tecla A → abre/cierra puerta izquierda
-Tecla D → abre/cierra puerta derecha
-Tecla R → reiniciar el juego
-Tecla ESPACIO → iniciar el juego desde el menú
+- Tecla A → abre/cierra puerta izquierda
+- Tecla D → abre/cierra puerta derecha
+- Tecla R → reiniciar el juego
+- Tecla ESPACIO → iniciar el juego desde el menú
 
 ## Outputs visuales 
 
- Fondo del escenario (fondo)
- Puertas (rectángulos semi transparentes)
- Barra de energía (rectángulo que cambia tamaño)
- Texto del HUD (hora, batería, controles)
- Texto de advertencia (enemigo cerca)
- Pantalla de Game Over (GIF jumpscare)
- Pantalla de victoria (imagen 6 AM)
+- Fondo del escenario (fondo)
+- Puertas (rectángulos semi transparentes)
+- Barra de energía (rectángulo que cambia tamaño)
+- Texto del HUD (hora, batería, controles)
+- Texto de advertencia (enemigo cerca)
+- Pantalla de Game Over (GIF jumpscare)
+- Pantalla de victoria (imagen 6 AM)
 
  ## Outputs sonoros
  
