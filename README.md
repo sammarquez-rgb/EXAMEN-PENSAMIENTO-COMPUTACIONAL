@@ -110,4 +110,5 @@ Finalmente, el proyecto utiliza funciones auxiliares para estructurar la interfa
 
 ## Fondo 
 
-![Fondo FNAF](fondofnaf.png)
+![Uploading fondofnaf.png.png…]()
+
