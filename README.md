@@ -108,9 +108,26 @@ Finalmente, el proyecto utiliza funciones auxiliares para estructurar la interfa
 
 # Recursos visuales
 
-## Fondo 
+## Fondo del juego 
+
+Se utilizó como fondo una imagen del escenario original de Five Nights at Freddy’s 1, con el fin de mantener la estética del juego y reforzar su atmósfera de tensión y suspenso dentro del proyecto.
 
 <img width="1280" height="600" alt="fondofnaf" src="https://github.com/user-attachments/assets/3c409005-ac67-4ff8-bbf3-5f976232c901" />
 
+## Animatrónico (Foxy / jumpscare)
 
+Se utilizó una imagen de Foxy ya que es uno de los animatrónicos más reconocidos y temidos dentro de Five Nights at Freddy’s, lo que refuerza la tensión y el vínculo directo con la estética de terror del juego.
 
+<img width="498" height="373" alt="foxy" src="https://github.com/user-attachments/assets/57a79d50-bfc1-4b6f-bd85-2dd2efc6cf38" />
+
+## Pantalla de victoria (6 AM)
+
+La pantalla de “6 AM” se utilizó como representación del momento de victoria del jugador, haciendo referencia directa a Five Nights at Freddy’s, donde sobrevivir hasta esa hora significa haber completado el turno.
+
+<img width="1080" height="1080" alt="6am jpg" src="https://github.com/user-attachments/assets/78e6b784-c323-48f5-a331-2ee1e32b2850" />
+
+## Recursos sonoros
+
+Los sonidos utilizados fueron obtenidos desde fuentes externas e integrados al sistema para reforzar la experiencia del juego. Se emplea un sonido de jumpscare para enfatizar el momento de derrota y generar impacto en el jugador, y un sonido de victoria que refuerza la sensación de logro al alcanzar las 6:00 AM, siendo fiel al juego original Five Nights at Freddy’s.
+
+https://www.myinstants.com/es/search/?name=FNAF
